@@ -1,0 +1,19 @@
+*{
+
+margin: 0%;
+}
+
+h2{
+    padding-left: 43%;
+    padding-top: 10%;
+    
+}
+html{
+    background-color: red;
+    margin: 0%;
+}
+section{
+    background-color: black;
+    color: aliceblue;
+    overflow: auto;
+} 
